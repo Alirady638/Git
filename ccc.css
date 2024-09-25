@@ -1,0 +1,185 @@
+div{
+    margin-left: 30px;
+}
+
+.left{
+    height: 500px;
+    width: 400px;
+    margin-top: 20px;
+    
+}
+.left .a1{
+    position: absolute;
+    top: 10px;
+
+}
+.left p{
+    font-weight: 300;
+    font-size:40px ;
+    font-family: sans-serif;
+}
+.left .aa{
+    color: rgba(255, 166, 0, 0.704);
+}
+.left img{
+    height: 50px;
+    position: absolute;
+    top: 155px;
+
+}
+.left .a{
+    position: absolute;
+    top: 130px;
+    left: 120px;
+    font-weight: lighter;
+    font-size: 30px;
+    color: #00000033;
+}
+.left .a2{
+    position: absolute;
+    top: 160px;
+    left: 120px;
+    font-weight: lighter;
+    font-size: 30px;
+    color: #00000033;
+}
+.center .c1{background-color: rgba(229, 235, 246, 0.782);
+    width: 300px;
+    height: 280px;
+    position: absolute;
+    left: 380px;
+    top: 40px;
+}
+.center .c1 img{
+   padding: 0px 30px;
+}
+.center .c1 p {position: relative;
+    left: 15px;
+
+}
+.center .c2{
+    background-color: rgba(229, 235, 246, 0.782);
+    width: 300px;
+    height: 280px;
+    position: absolute;
+    left: 720px;
+    top: 40px;
+}
+.center .c2 img{
+    padding: 0px 30px;
+}
+.center .c2 p{
+    position: relative;
+    left: 15px;
+}
+.center .c3{
+    background-color: rgba(229, 235, 246, 0.782);
+    width: 300px;
+    height: 280px;
+    position: absolute;
+    left: 1050px;
+    top: 40px;
+}
+.center .c3 img{
+    padding: 20px 30px;
+}
+.center .c3 p{
+    position: relative;
+    left: 15px;
+}
+.cleft{
+    height: 400px;
+    width: 50%;
+    background-color: blue; 
+    background-repeat:no-repeat ;
+}
+
+.cleft p{
+    position: absolute;
+    top: 670px ;
+    left:20%;
+    font-weight: 300;
+    font-size: 50px;
+}
+
+.cleft img{
+width:100% ;
+height: 400px;
+}
+.cleft button{
+    background-color: rgb(204, 103, 15);
+    color: white;
+    width: 150px;
+    position: absolute;
+    top: 800px ;
+    left:23%;
+}
+.cright{
+    height: 400px;
+    width: 50%;
+    position: absolute;
+    top:520px ;
+    left: 55%;
+    background-color: blue;
+}
+.cright img{
+    width:100% ;
+    height: 400px;
+}
+.cright p{
+    position: absolute;
+    top: 150px ;
+    left:30%;
+    font-weight: 300;
+    font-size: 50px;
+}
+.cright button{
+    background-color: rgb(204, 103, 15);
+    color: white;
+    width: 150px;
+    position: absolute;
+    top: 280px ;
+    left:38%;
+}
+.text{
+    position: relative;
+    top: 40px;
+}
+.text span{
+    font-weight: 300;
+    font-size: 30px;
+}
+.text label{
+    position: relative;
+    left: 190px;
+}
+.text p{
+    position: relative;
+    left: 250px;
+    color: #0000002a;
+    display: inline-block;
+    margin-left:30px ;}
+.text button{
+    position: relative;
+    left: 700px;
+    background-color: white; 
+    border: 3px solid black;
+}
+.finish .finish2{
+    text-align: right;
+    background-color: red;
+    width: 15%;
+    color: white;
+    position: relative;
+    left: 270px;
+}
+.finish{
+    background-color: aliceblue;
+    width: 20% ;
+    height: 300px;
+    position: relative;
+    top: 40px;
+    padding: 0px 50px;}
+    
+    
+    

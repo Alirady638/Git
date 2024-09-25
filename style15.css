@@ -1,0 +1,698 @@
+
+
+
+.up{
+    background-color: black;
+    width: 100%;
+    height: 600px;
+    display: flex;
+    flex-wrap: wrap;
+    
+    
+}
+.up .u1{
+    position: sticky;
+    top: 0px;
+    
+    
+}
+.up .u1 span {
+    color: white;
+    font-size:12px;
+    
+}
+.up .u1 .uleft{
+    position: absolute;
+    left: 30px;
+    top: 10px;
+    font-size: 20px;
+    
+}
+.up .u1 .uleft2{
+    position: absolute;
+    left: 80px;
+    top: 0px;
+    color: red; 
+    font-size: 30px;
+    
+
+}
+.up .u1 .u2{
+    position: absolute;
+    left: 500px;
+    top: 20px;
+    color: yellow;
+    
+}
+.up .u1 .u3{
+    position: absolute;
+    left: 600px;
+    top: 20px;
+    
+}
+.up .u1 .u4{
+    position: absolute;
+    left: 700px;
+    top: 20px;
+    
+}
+.up .u1 .u5{
+    position: absolute;
+    left: 800px;
+    top: 20px;
+    
+}
+.up .u1 .u6{
+    position: absolute;
+    left: 900px;
+    top: 20px;
+    
+}
+.up .u1 .u7{
+    position: absolute;
+    left: 1000px;
+    top: 20px;
+    
+}
+.up .u1 .u8{
+    position: absolute;
+    left: 1100px;
+    top: 20px;
+    
+}
+.up .d1 .img{
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+    position: absolute;
+    top: 150px;
+    left: 700px;
+
+}
+.up .d1 .p1{
+    position: absolute;
+    top: 320px;
+    left: 750px;
+    font-size: 20px;
+    color: white;
+    
+}
+.up .d1 .p2{
+    position: absolute;
+    top:350px;
+    left: 740px;
+    color: rgba(255, 255, 255, 0.208);
+
+}
+.up .d1 img{
+    height: 20px;
+    position: absolute;
+    top: 380px;
+    background-color: white;
+    
+}
+.up .d1 .i1{
+    position: absolute;
+    left: 710px;
+    
+}
+.up .d1 .i2{
+    position: absolute;
+    left: 740px;
+    
+}
+.up .d1 .i3{
+    position: absolute;
+    left: 770px;
+    
+}
+.up .d1 .i4{
+    position: absolute;
+    left: 800px;
+    
+}
+.up .d1 .i5{
+    position: absolute;
+    left: 830px;
+    
+}
+.up .d1 button{
+    background-color: red;
+    color: white;
+    position: absolute;
+    top: 420px;
+    left: 735px;
+    width: 90px;
+    height: 30px;
+    border-radius: 30px;
+    
+}
+.up2{
+    width: 100%;
+    height: 400px;
+    
+}
+.up2 h1{
+    position: absolute;
+    left: 60px;
+    
+}
+.up2 img{
+    position: relative;
+    top: 90px;
+    left: 30px;
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    
+}
+.up2 .d2{
+    width: 50%;
+    height: 230px;
+    background-color:aliceblue;
+    position: absolute;
+    left: 400px;
+    top: 690px;
+
+}
+.up2 .d2 p{
+    width: 50%;
+    position: relative;
+    left: 30px;
+}
+.up2 .d2 button{
+    width: 120px;
+    height: 25px;
+    border-radius: 30px;
+    color: white;
+    background-color: red;
+    position: absolute;
+    left: 30px;
+    
+}
+.up2 .d2 span{
+    position: absolute;
+    left: 430px;
+    top:20px ;
+    
+}
+.up2 .d2 .s1{
+
+    position: absolute;
+    left: 720px;
+    
+}
+.up2 .d2 .progress{
+    width: 40%;
+    position: absolute;
+    top: 50px;
+    left: 430px;
+    color: yellow;
+    
+}
+.up2 .d2 .s2{
+    
+    position: absolute;
+    left: 430px;
+    top: 80px;
+    
+}
+.up2 .d2 .s3{
+    
+    position: absolute;
+    left: 720px;
+    top: 80px;
+    
+}
+.up2 .d2 .progress2{
+    width: 40%;
+    position: absolute;
+    top: 110px;
+    left: 430px;
+    color: yellow;
+    
+}
+.up2 .d2 .s4{
+    position: absolute;
+    left: 430px;
+    top: 140px;
+    
+}
+.up2 .d2 .s5{
+    position: absolute;
+    left: 720px;
+    top: 140px;
+
+}
+.up2 .d2 .progress3{
+    width: 40%;
+    position: absolute;
+    top: 170px;
+    left: 430px;
+    color: yellow;
+    
+}
+.up2 .img1{
+    width: 40px;
+    height: 40px;
+    position: absolute;
+    top: 970px;
+    left: 60px;
+    
+}
+.up2 .p1{
+    position: absolute;
+    top: 960px;
+    left:120px;
+    font-size: large;
+    font-weight: bold;
+    
+}
+.up2 .p2{
+    position: absolute;
+    top: 980px;
+    left: 110px;
+    color: rgba(0, 0, 0, 0.495);
+    
+}
+.up2 .img2{
+    width: 40px;
+    height: 40px;
+    position: absolute;
+    top: 970px;
+    left: 300px;
+    
+}
+.up2 .p3{
+    position: absolute;
+    top: 960px;
+    left:360px;
+    font-size: large;
+    font-weight: bold;
+    
+}
+.up2 .p4{
+    position: absolute;
+    top: 980px;
+    left: 350px;
+    color: rgba(0, 0, 0, 0.495);
+    
+
+}
+.up2 .img3{
+    width: 40px;
+    height: 40px;
+    position: absolute;
+    top: 970px;
+    left: 540px; 
+    
+}
+.up2 .p5{
+    position: absolute;
+    top: 960px;
+    left:600px;
+    font-size: large;
+    font-weight: bold;
+    
+}
+.up2 .p6{
+    position: absolute;
+    top: 980px;
+    left: 590px;
+    color: rgba(0, 0, 0, 0.495);
+    
+}
+.up2 .img4{
+    width: 40px;
+    height: 40px;
+    position: absolute;
+    top: 970px;
+    left: 780px;
+    
+}
+.up2 .p7{
+    position: absolute;
+    top: 960px;
+    left:850px;
+    font-size: large;
+    font-weight: bold;
+    
+}
+.up2 .p8{
+    position: absolute;
+    top: 980px;
+    left: 840px;
+    color: rgba(0, 0, 0, 0.495);
+
+}
+.up3{
+    width: 100%;
+    height: 400px;
+
+    
+}
+.up3 h1{
+    position: absolute;
+    left: 60px;
+    top: 1050px;
+    
+}
+.up3 .d3{
+    background-color: blueviolet;
+    width: 250px;
+    height: 250px;
+    border-radius: 20px;
+    position: absolute;
+    top: 1150px;
+    left: 200px;
+    
+}
+.up3 .d4{
+    background-color: yellow;
+    width: 250px;
+    height: 250px;
+    border-radius: 20px;
+    position: absolute;
+    top: 1150px;
+    left: 500px;
+    
+}
+.up3 .d5{
+    background-color: red;
+    width: 250px;
+    height: 250px;
+    border-radius: 20px;
+    position: absolute;
+    top: 1150px;
+    left: 800px;
+    
+}
+.up3 .d3 img{
+    height: 70px;
+    width: 70px;
+    text-align: center;
+    position: relative;
+    top: 10px;
+    
+}
+.up3 .d3 p{
+    color: white;
+}
+.up3 .d4 img{
+    height: 70px;
+    width: 70px;
+    text-align: center;
+    position: relative; 
+    top: 10px; 
+}
+.up3 .d5 img{
+    height: 70px;
+    width: 70px;
+    text-align: center;
+    position: relative; 
+    top: 10px; 
+}
+.up3 .d5 p{
+    color: white;
+}
+.up3 .p1{
+    font-weight: bold;
+}
+.up3 span{
+    position: relative;
+    top: 410px;
+    right: 130px;
+}
+.up3 .p3{
+    color: red;
+}
+.up3 .img4{
+    height: 20px;
+    position: relative;
+    top: 415px;
+    right: 130px;
+}
+.up4{
+    width: 100%;
+    height: 600px;
+    
+    flex-wrap: wrap;
+    
+}
+.up4 h1{
+    position: relative;
+    top: 60px;
+    left: 60px;
+}
+.up4 div{
+    width: 450px;
+    height: 500px;
+    background-color:aliceblue;
+    position: relative;
+    left: 100px;
+    
+}
+.up4 .d1{
+    position: relative;
+    top: 80px;
+    left: 100px;
+}
+.up4 .d2{
+    position: absolute;
+    top: 1570px;
+    left: 600px;
+    
+}
+.up4 .d1 .span1{
+    position: relative;
+    top: 30px;
+    left: 60px;
+    color: #000000a2;
+}
+.up4 .d1 .h1{
+    position: relative;
+    top: 20px;
+    font-weight:bold;
+    font-size: 30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.up4 .d1 .span2{
+    width: 80%;
+    position: relative;
+    left: 60px;
+    top: 5px;
+    color: #000000a2;
+}
+.up4 .d1 .span3{
+    position: relative;
+    left: 60px;
+    top: 10px;
+    color: #000000a2;
+}
+.up4 .d1 .h2{
+    position: relative;
+    top: 10px;
+    font-weight:bold;
+    font-size: 30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.up4 .d1 .span4{
+    width: 80%;
+    position: relative;
+    left: 60px;
+    top: 0px;
+    color: #000000a2;
+}
+.up4 .d1 .span5{
+    position: relative;
+    top: 30px;
+    left: 60px;
+    color: #000000a2;
+}
+.up4 .d1 .h3{
+    position: relative;
+    top: 1px;
+    font-weight:bold;
+    font-size: 30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.up4 .d1 .span6{
+    width: 80%;
+    position: relative;
+    left: 60px;
+    top: 0px;
+    color: #000000a2;
+}
+.up4 .d2 .span1{
+    position: relative;
+    top: 30px;
+    left: 60px;
+    color: #000000a2;
+}
+.up4 .d2 .h1{
+    position: relative;
+    top: 20px;
+    font-weight:bold;
+    font-size: 30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.up4 .d2 .span2{
+    width: 80%;
+    position: relative;
+    left: 60px;
+    top: 5px;
+    color: #000000a2;
+}
+.up4 .d2 .span3{
+    position: relative;
+    top: 30px;
+    left: 60px;
+    color: #000000a2;
+}
+.up4 .d2 .h2{
+    position: relative;
+    top: 10px;
+    font-weight:bold;
+    font-size: 30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.up4 .d2 .span4{
+    width: 80%;
+    position: relative;
+    left: 60px;
+    top: 0px;
+    color: #000000a2;
+}
+.up4 .d2 .span5{
+    position: relative;
+    top: 30px;
+    left: 60px;
+    color: #000000a2;
+}
+.up4 .d2 .h3{
+    position: relative;
+    top: 1px;
+    font-weight:bold;
+    font-size: 30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.up4 .d2 .span6{
+    width: 80%;
+    position: relative;
+    left: 60px;
+    top:0px;
+    color: #000000a2;
+}
+.up5{
+    width: 100%;
+    height: 600px;
+    
+    
+}
+.up5 h1{
+    position: relative;
+    top: 60px;
+    left: 60px;
+    font-family:  sans-serif;
+}
+.up5 span{
+    position: absolute;
+    top: -100px;
+    left: 80px;
+}
+.up5 .s1{
+    color: red;
+    position: relative;
+}
+.up5 .s2{
+    position: relative;
+    left: 110px;
+}
+.up5 .s3{
+    position: relative;
+    left: 140px;
+}
+.up5 .s4{
+    position: relative;
+    left: 170px;
+}
+.up5 .s5{
+    position: relative;
+    left: 200px;
+}
+.up5 div{
+    width: 300px;
+    height: 200px;
+    background-color: aliceblue;
+    display: inline-block;
+    margin: 40px;
+    position: relative;
+    top: 150px;
+    flex-wrap: wrap;
+}
+.up5 .d1 img{
+    height: 150px;
+    position: relative;
+    top: 20px;
+}
+.up5 .d2 img{
+    height: 150px;
+    position: relative;
+    top: 20px;
+}
+.up5 .d3 img{
+    height: 150px;
+    position: relative;
+    top: 20px;
+}
+.up5 .d4 img{
+    height: 150px;
+    position: relative;
+    top: 20px;
+}
+.up5 .d5 img{
+    height: 150px;
+    position: relative;
+    top: 20px;
+}
+.up5 .d6 img{
+    height: 150px;
+    position: relative;
+    top: 20px;
+}
+.up5 button{
+    position: relative;
+    top: 160px;
+    background-color: red;
+    color: white;
+    width: 120px;
+    height: 25px;
+    border-radius: 30px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
